@@ -14,6 +14,7 @@
 #include "rlutil.h"
 #include "modeloParcial.h"
 #include "configuracion.h"
+#include "reportes.h"
 
 using namespace rlutil;
 using namespace std;
@@ -30,7 +31,6 @@ void menu(){
         cout<<"3 - REPORTES"<<endl;
         cout<<"4 - CONFIGURACION"<<endl;
         cout<<"5 - MODELO PARCIAL"<<endl;
-        cout<<"6 - PARCIAL"<<endl;
         cout<<"------------------------"<<endl;
         cout<<"0 - SALIR   "<<endl;
         int opcion;
@@ -48,9 +48,6 @@ void menu(){
             break;
         case 4:
             menuConfig();
-        case 5:
-            menuPreParcial();
-            break;
         case 0:
             return;
         default:
@@ -212,4 +209,34 @@ int opcion;
     } while (opcion != 0);
 }
 
+void menuReportes(){
+     while(true){
+
+        system("cls");
+        title("MENU REPORTES",BLACK,CYAN);
+        gotoxy(1,3);
+        cout<<"1 - PUNTO A "<<endl;
+        cout<<"2 - PUNTO B "<<endl;
+        cout<<"------------------------------"<<endl;
+        cout<<"0 - VOLVER AL MENU PRINCIPAL"<<endl;
+        int opcion;
+        cout<<"> ";
+        cin>> opcion;
+        system("cls");
+        switch(opcion)
+        {
+        case 1:
+            puntoA();
+            break;
+        case 2:
+            puntoB();
+             break;
+        case 0:
+            return;
+            break;
+        default:
+            break;
+        }
+    }
+}
 

@@ -67,7 +67,7 @@ void tiempoPromedio(){
 
 void entrenamientos2020(){
 
-    Rutina registro;
+    //Rutina registro;
     FILE *p;
     Rutina *vecRutinas;
     int idAux,cantReg;

@@ -930,3 +930,182 @@
 	"rlutil.h"
 	"modeloParcial.h"
 
+1600959458 source:c:\users\daveq\documents\github\lab-parcial\tp1-2-3\configuracion.cpp
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+	"configuracion.h"
+
+1600959458 c:\users\daveq\documents\github\lab-parcial\tp1-2-3\rutinas.h
+	"fechas.h"
+	"usuarios.h"
+
+1600959458 c:\users\daveq\documents\github\lab-parcial\tp1-2-3\fechas.h
+
+1600959458 c:\users\daveq\documents\github\lab-parcial\tp1-2-3\usuarios.h
+	"fechas.h"
+
+1600959458 c:\users\daveq\documents\github\lab-parcial\tp1-2-3\menus.h
+
+1600959458 c:\users\daveq\documents\github\lab-parcial\tp1-2-3\ui.h
+
+1600959458 c:\users\daveq\documents\github\lab-parcial\tp1-2-3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600959458 c:\users\daveq\documents\github\lab-parcial\tp1-2-3\modeloparcial.h
+
+1600959458 c:\users\daveq\documents\github\lab-parcial\tp1-2-3\configuracion.h
+
+1600959458 source:c:\users\daveq\documents\github\lab-parcial\tp1-2-3\fechas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+
+1600959458 source:c:\users\daveq\documents\github\lab-parcial\tp1-2-3\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+	"configuracion.h"
+
+1600985797 source:c:\users\daveq\documents\github\lab-parcial\tp1-2-3\menus.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+	"configuracion.h"
+	"reportes.h"
+
+1600959458 source:c:\users\daveq\documents\github\lab-parcial\tp1-2-3\rutinas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+	"configuracion.h"
+
+1600959458 source:c:\users\daveq\documents\github\lab-parcial\tp1-2-3\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1600959458 source:c:\users\daveq\documents\github\lab-parcial\tp1-2-3\usuarios.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+
+1600984792 source:c:\users\daveq\documents\github\lab-parcial\tp1-2-3\modeloparcial.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+	"configuracion.h"
+
+1600985684 source:c:\users\daveq\documents\github\lab-parcial\tp1-2-3\reportes.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+	"configuracion.h"
+	"reportes.h"
+
+1600985675 c:\users\daveq\documents\github\lab-parcial\tp1-2-3\reportes.h
+
